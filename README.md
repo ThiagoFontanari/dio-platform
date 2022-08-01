@@ -10,6 +10,9 @@ Repository of codes developed during the studies on the Digital Innovation One t
   ### [iac-serv-web.sh](https://github.com/ThiagoFontanari/dio-platform/blob/main/bootcamp-linux-experience/iac-serv-web.sh)
   Developed to meet the challenge of provisioning a web server with Apache, using shell scripting. | Desenvolvido para atender o desafio de provisionamento de um servidor web com Apache, utilizando shell scripting.<br />
 
+  ### [desafio-container](https://github.com/ThiagoFontanari/dio-platform/blob/main/bootcamp-linux-experience/desafio-container)
+  Challenge code using Docker in the microservices scenario. | Código do desafio de utilização do Docker no cenário de microserviços.<br />
+
 ## Useful links | Links Úteis
 [Digital Innovatio One Page | Página da Digital Innovation One](https://www.dio.me/en)<br />
 [Stack Overflow](https://stackoverflow.com/)
