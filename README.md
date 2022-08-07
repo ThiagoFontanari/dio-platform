@@ -1,7 +1,7 @@
-# dio-platform
+# [dio-platform](https://github.com/ThiagoFontanari/dio-platform)
 Repository of codes developed during the studies on the Digital Innovation One teaching platform. | Repositório de códigos desenvolvidos ao longo dos estudos na plataforma de ensino da Digital Innovation One.
 
-## [bootcamp-linux-experience](https://github.com/ThiagoFontanari/dio-platform/tree/main/bootcamp-linux-experience)
+## - [bootcamp-linux-experience](https://github.com/ThiagoFontanari/dio-platform/tree/main/bootcamp-linux-experience)
   Here are the codes developed for the Bootcamp Linux Experience | Aqui estão os códigos desenvolvidos para os desafios do Bootcamp Linux Experience<br />
   
   ### [iac.sh](https://github.com/ThiagoFontanari/dio-platform/blob/main/bootcamp-linux-experience/iac.sh)
@@ -13,11 +13,11 @@ Repository of codes developed during the studies on the Digital Innovation One t
   ### [desafio-container](https://github.com/ThiagoFontanari/dio-platform/blob/main/bootcamp-linux-experience/desafio-container)
   Challenge code using Docker in the microservices scenario. | Código do desafio de utilização do Docker no cenário de microserviços.<br />
 
-## [machine-learnin-specialist](https://github.com/ThiagoFontanari/dio-platform/tree/main/machine-learning-specialist)
-    Section dedicated to codes developed for Bootcamp Machine Learning Specialist. | Seção dedicada aos códigos desenvolvidos para o Bootcamp Machine Learning Specialist.<br />
+## - [machine-learning-specialist](https://github.com/ThiagoFontanari/dio-platform/tree/main/machine-learning-specialist)
+  Section dedicated to codes developed for Bootcamp Machine Learning Specialist. | Seção dedicada aos códigos desenvolvidos para o Bootcamp Machine Learning Specialist.<br />
 
-  ### [make_regression-ex.py]()
-    Shows a simple usage of the Python sklearn library's make_regression function, which generates a random regression problem and prints the result through the matplotlib library. | Mostra uma utilização simples da função make_regression da biblioteca sklearn do Python, que gera um problema aleatório de regressão e imprime o resultado através da biblioteca matplotlib.<br />
+  ### [make_regression-ex.py](https://github.com/ThiagoFontanari/dio-platform/blob/main/machine-learning-specialist/make_regression-ex.py)
+  Shows a simple usage of the Python sklearn library's make_regression function, which generates a random regression problem and prints the result through the matplotlib library. | Mostra uma utilização simples da função make_regression da biblioteca sklearn do Python, que gera um problema aleatório de regressão e imprime o resultado através da biblioteca matplotlib.<br />
 
 ## Useful links | Links Úteis
 [Digital Innovatio One Page | Página da Digital Innovation One](https://www.dio.me/en)<br />
