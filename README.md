@@ -13,7 +13,7 @@ Repository of codes developed during the studies on the Digital Innovation One t
   ### [desafio-container](https://github.com/ThiagoFontanari/dio-platform/blob/main/bootcamp-linux-experience/desafio-container)
   Challenge code using Docker in the microservices scenario. | Código do desafio de utilização do Docker no cenário de microserviços.<br />
 
-## [machine-learnin-specialist]()
+## [machine-learnin-specialist](https://github.com/ThiagoFontanari/dio-platform/tree/main/machine-learning-specialist)
     Section dedicated to codes developed for Bootcamp Machine Learning Specialist. | Seção dedicada aos códigos desenvolvidos para o Bootcamp Machine Learning Specialist.<br />
 
   ### [make_regression-ex.py]()
